@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+downloads/
+*.mp3
+*.wav
+*.iso
+config.local.json
+.spotify_cache
+.cache
